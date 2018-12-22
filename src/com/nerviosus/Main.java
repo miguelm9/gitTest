@@ -7,5 +7,7 @@ public class Main {
         System.out.println("THIS PROJECT WORKS");
         System.out.println("still working");
         System.out.println("HELLO COSMOS");
+        System.out.println("New feature from HelloCosmos thing");
+        System.out.println("Everything works just fine");
     }
 }
