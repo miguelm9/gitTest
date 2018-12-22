@@ -6,6 +6,5 @@ public class Main {
         System.out.println("HELLO WORLD!");
         System.out.println("THIS PROJECT WORKS");
         System.out.println("still working");
-        System.out.println("does not work anymore");
     }
 }
